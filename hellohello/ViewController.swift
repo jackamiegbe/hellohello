@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         print("hello world! whats good")
+        print("eat a cow")
     }
 
     override func didReceiveMemoryWarning() {
