@@ -14,12 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        print("hello world! whats good")
-<<<<<<< HEAD
-        print("eat a cow")
-        print("because i'm batman")
-=======
->>>>>>> parent of 5b52aaa... Eat a cow
+        print("one")
+
     }
 
     override func didReceiveMemoryWarning() {
